@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image Search</string>
+    <string name="action_Search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="Image_Results">Image Results</string>
+    <string name="Image_Title">Image Title</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="save_settings">Save</string>
+    <string name="site_filter">Filter</string>
+
+    <string name="title_activity_imagd_display">Image Display</string>
+
+</resources>
